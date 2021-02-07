@@ -22,6 +22,7 @@ export default () => {
     };
 
     useEffect(() => {
+      
         searchApi('pasta')
     }, [])
 
